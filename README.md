@@ -1,2 +1,2 @@
 # CrackImages
-这是一个包含有三个数据集的数据库，其中包含裂缝原图像数据集DataSource，提取的裂缝数据集crack，合成图像数据集MixedData
+这是一个包含有三个数据集的数据库，其中包含裂缝原图像数据集DataSource，提取的裂缝数据集crack，合成图像数据集Synthesized Image
